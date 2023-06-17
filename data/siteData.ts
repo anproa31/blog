@@ -2,7 +2,7 @@ const siteData = {
   title: 'An Buiii\'s Blog',
   author: 'Notion Blog',
   headerTitle: 'An Quoc Bui',
-  profileUrl: '/nextjs-logo.png',
+  profileUrl: 'nextjs-logo.png',
   headerDescription: 'Notion Blog for Android, Web, AI & Cloud Developers',
   footerText: '© All rights reserved',
   language: 'en-us',
